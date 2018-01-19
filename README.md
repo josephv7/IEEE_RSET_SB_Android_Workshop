@@ -4,8 +4,8 @@
 # IEEE_RSET_SB_Android_Workshop
 Android Workshop In Association With RSET IEEE SB
 
-##Sample Android Apps
-[Hello World](https://github.com/iamjosephvarghese/HelloWorld)   
-[Android Activity Life Cycle](https://github.com/iamjosephvarghese/AndroidActivityLifeCycle)
-[Basic Login](https://github.com/iamjosephvarghese/BasicLogin)
+##Sample Android Apps  
+[Hello World](https://github.com/iamjosephvarghese/HelloWorld)   
+[Android Activity Life Cycle](https://github.com/iamjosephvarghese/AndroidActivityLifeCycle)  
+[Basic Login](https://github.com/iamjosephvarghese/BasicLogin)  
 
